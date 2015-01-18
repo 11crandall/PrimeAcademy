@@ -1,4 +1,4 @@
-body {background-color: #66FFFF;
+body {background-color: #9FFFFD;
 font-family:"Book Antiqua", sans-serif;}
 
 .Info {display:inline;
@@ -7,8 +7,8 @@ font-family:"Book Antiqua", sans-serif;}
 
 .Info img {
 	position:relative;
-	left:30px;
-	bottom:20pxs;}
+	left:-30px;
+	bottom:-50pxs;}
 .container {
 	background-color: #FDFFBB;
 	border-radius: 10px;}
@@ -17,7 +17,7 @@ font-family:"Book Antiqua", sans-serif;}
 	padding-top:10px;
 	padding-bottom:10px;}
 
-.col-md-3 {border-top: 1px solid #66FFFF;
-	border-left: 1px solid #66FFFF;}
+.col-md-3 {border-top: 3px solid #9FFFFD;
+	border-left: 3px solid #9FFFFD;}
 	
 .spacer {padding:25px;}
